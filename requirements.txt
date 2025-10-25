@@ -18,3 +18,4 @@ transformers
 torch
 accelerate
 peft
+gunicorn
