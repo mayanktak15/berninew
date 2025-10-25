@@ -1,0 +1,12 @@
+# Auto-detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Treat these as text always
+*.py text
+*.md text
+*.yml text
+*.yaml text
+*.html text
+*.css text
+*.js text
+*.json text
