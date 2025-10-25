@@ -1,0 +1,31 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Project data/artifacts
+faiss_index/
+docify.db
+users.csv
+query_dataset.csv
+*.env
+.env
+
+# VCS & CI
+.git/
+.github/
+
+# Editors/IDEs
+.vscode/
+.idea/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
